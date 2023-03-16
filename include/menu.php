@@ -29,6 +29,6 @@
     </div>
   </div>
 </div>
-    
+<?php include 'include/operaciones.php';?>
 </body>
 </html>
